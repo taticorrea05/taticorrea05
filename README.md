@@ -1,4 +1,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:taticorreajim05gmail.com)
+[<img src="https://img.shields.io/github/followers/taticorrea05?label=follow&style=social" height="22" title="Sígueme" />](https://github.com/taticorrea05)
 
 <div align="center">
   <h1>Hola, soy Tatiana 👋</h1>
