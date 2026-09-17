@@ -18,6 +18,9 @@ Soy estudiante de Estadística en quinto semestre, interesada en el análisis de
 &nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
 &nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
 
+### Objetivo profesional
+Seguir fortaleciendo mis habilidades en análisis de datos, programación y modelado estadístico. Trabajar en proyectos que me acerquen a situaciones reales del entorno laboral y, a través de ellos, ir construyendo mi perfil profesional y adquiriendo experiencia práctica.
+
 # 📊 Estadísticas de GitHub
 
 <p align="center">
