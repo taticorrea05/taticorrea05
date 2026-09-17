@@ -9,7 +9,7 @@
 ## Sobre mi
 Mi nombre es Tatiana Correa Jiménez tengo 20 años y soy estudiante de Estadística en la Universidad Nacional de Colombia ( UNAL ). Actualmente curso quinto semestre. Me apasiona el análisis de datos, la inferencia y también me interesa mucho la programación. Me encanta bailar 💓 🎶, aprender cosas nuevas y compartir con mis seres queridos.
 
-Actualmente estoy aprendiendo code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+Actualmente estoy aprendiendo <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
 
