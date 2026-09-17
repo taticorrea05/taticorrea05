@@ -1,3 +1,5 @@
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:taticorreajim05gmail.com)
+
 <div align="center">
   <h1>Hola, soy Tatiana 👋</h1>
 </div>
