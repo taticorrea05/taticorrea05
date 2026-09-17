@@ -10,13 +10,17 @@
 </p>
 
 ## Sobre mí
-
-Soy estudiante de Estadística en quinto semestre, interesada en el análisis de datos, la inferencia estadística y el uso de la programación para resolver problemas. Actualmente estoy construyendo experiencia mediante proyectos académicos, práctica constante y el aprendizaje de nuevas herramientas. Fuera del ámbito académico, disfruto bailar💓 🎶, compartir con las personas que quiero y aprender nuevos idiomas; actualmente estudio portugués.
+Soy estudiante de Estadística, interesada en el análisis de datos, la inferencia estadística y la programación como herramientas para comprender y resolver problemas. Actualmente estoy construyendo experiencia mediante proyectos académicos y aprendizaje continuo. También me interesa aprender idiomas y explorar nuevas herramientas.
 
 ### Actualmente estoy aprendiendo
-&nbsp; <img height="20" src="https://skillicons.dev/icons?i=github">
-&nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
-&nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
+&nbsp; <img height="35" src="https://skillicons.dev/icons?i=github">
+&nbsp; <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+&nbsp; <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
+
+### Idiomás
+- Español — Nativo
+- Inglés — En formación
+- Portugués — En formación
 
 ### Objetivo profesional
 Seguir fortaleciendo mis habilidades en análisis de datos, programación y modelado estadístico. Trabajar en proyectos que me acerquen a situaciones reales del entorno laboral y, a través de ellos, ir construyendo mi perfil profesional y adquiriendo experiencia práctica.
