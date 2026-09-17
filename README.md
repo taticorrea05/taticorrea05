@@ -21,6 +21,5 @@ Soy estudiante de Estadística en quinto semestre, interesada en el análisis de
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taticorrea05&show_icons=true&theme=tokyonight" height="165">
   <img src="https://streak-stats.demolab.com/?user=taticorrea05&theme=tokyonight" height="165">
 </p>
