@@ -14,8 +14,6 @@
 Soy estudiante de Estadística en quinto semestre, interesada en el análisis de datos, la inferencia estadística y el uso de la programación para resolver problemas. Actualmente estoy construyendo experiencia mediante proyectos académicos, práctica constante y el aprendizaje de nuevas herramientas. Fuera del ámbito académico, disfruto bailar💓 🎶, compartir con las personas que quiero y aprender nuevos idiomas; actualmente estudio portugués.
 
 ### Actualmente estoy aprendiendo
-
-<b>Actualmente estoy aprendiendo:</b>
 &nbsp; <img height="20" src="https://skillicons.dev/icons?i=github">
 &nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
 &nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
