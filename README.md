@@ -15,12 +15,7 @@ Soy estudiante de Estadística en quinto semestre, interesada en el análisis de
 
 ### Actualmente estoy aprendiendo
 
-Actualmente estoy aprendiendo:
-
-GitHub <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
-
-Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-
-R <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
-
-
+<b>Actualmente estoy aprendiendo:</b>
+&nbsp; <img height="20" src="https://skillicons.dev/icons?i=github">
+&nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+&nbsp; <img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
