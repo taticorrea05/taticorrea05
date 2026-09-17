@@ -19,11 +19,15 @@ Soy estudiante de Estadística, interesada en el análisis de datos, la inferenc
 
 ### Idiomás
 - Español — Nativo
-- Inglés — En formación
-- Portugués — En formación
+- Inglés — En desarrollo
+- Portugués — En desarrollo
 
-### Objetivo profesional
-Seguir fortaleciendo mis habilidades en análisis de datos, programación y modelado estadístico. Trabajar en proyectos que me acerquen a situaciones reales del entorno laboral y, a través de ellos, ir construyendo mi perfil profesional y adquiriendo experiencia práctica.
+### Objetivos profesionales
+-Seguir fortaleciendo mis habilidades en análisis de datos, 
+ programación y modelado estadístico.
+
+-Trabajar en proyectos que me acerquen a situaciones reales del entorno laboral y,
+ a través de ellos, ir construyendo mi perfil  profesional y adquiriendo experiencia práctica.
 
 # 📊 Estadísticas de GitHub
 
