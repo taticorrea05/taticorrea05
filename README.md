@@ -69,5 +69,7 @@ financiera que es en la que me quiero desempeñar laboralmente.
 </p>
 
 "Es mucho mejor una respuesta aproximada a la pregunta correcta que una respuesta 
-exacta a la pregunta equivocada.”                                                                                                         — John Tukey
+exacta a la pregunta equivocada.”
+
+— John Tukey
 
