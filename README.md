@@ -65,7 +65,7 @@ financiera que es en la que me quiero desempeñar laboralmente.
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taticorrea05&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taticorrea05&theme=tokyonight">
 </p>
 
 
