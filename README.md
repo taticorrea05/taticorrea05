@@ -16,7 +16,7 @@ También me interesa aprender idiomas, retarme constantemente y explorar nuevas 
 
  
 ## 📌 Áreas de interés
-💻 ##Programación para el análisis de datos
+💻 Programación para el análisis de datos
 Uso de herramientas computacionales para procesar datos, implementar métodos estadísticos, automatizar análisis y generar resultados confiables.
 
 📉 Regresión y predicción estadística
