@@ -27,10 +27,15 @@ Aplicación de métodos estadísticos y herramientas computacionales para estudi
 
 ## Formación
 Mis componentes académicos incluyen areas como:
+
 📊Estadistica
+
 👩‍💻Programación
+
 🧮Matematicas
+
 🎲Probabilidad
+
 🔠Idiomas
 
 ## Actualmente estoy aprendiendo los lenguajes de:
