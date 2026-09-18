@@ -14,7 +14,7 @@ Soy estudiante de Estadística de la Universidad Nacional de Colombia, interesad
 
 También me interesa aprender idiomas, retarme constantemente y explorar nuevas herramientas. 
  
-###📌 Áreas de interés
+### 📌 Áreas de interés
 💻 Programación para el análisis de datos
 Uso de herramientas computacionales para procesar datos, implementar métodos estadísticos, automatizar análisis y generar resultados confiables.
 
@@ -25,7 +25,7 @@ Aplicación de modelos de regresión para estudiar relaciones entre variables y 
 Aplicación de métodos estadísticos y herramientas computacionales para estudiar el comportamiento de variables financieras, construir modelos y apoyar la toma de decisiones.
 
 
-###Formación
+### Formación
 Mis componentes académicos incluyen areas como:
 📊Estadistica
 👩‍💻Programación
