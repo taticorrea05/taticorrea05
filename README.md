@@ -65,9 +65,8 @@ financiera que es en la que me quiero desempeñar laboralmente.
 # 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=taticorrea05&theme=tokyonight" height="165">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taticorrea05&theme=tokyo-night" width="95%">
 </p>
-
 
 
 "Es mucho mejor una respuesta aproximada a la pregunta correcta que una respuesta 
