@@ -68,6 +68,8 @@ financiera que es en la que me quiero desempeñar laboralmente.
   <img src="https://streak-stats.demolab.com/?user=taticorrea05&theme=tokyonight" height="165">
 </p>
 
+
+
 "Es mucho mejor una respuesta aproximada a la pregunta correcta que una respuesta 
 exacta a la pregunta equivocada.”
 
