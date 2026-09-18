@@ -13,6 +13,7 @@
 Soy estudiante de Estadística de la Universidad Nacional de Colombia, interesada en el análisis de datos, las matemáticas y la programación como herramientas para comprender y resolver problemas. Actualmente estoy construyendo experiencia mediante proyectos académicos y aprendizaje continuo. 
 
 También me interesa aprender idiomas, retarme constantemente y explorar nuevas herramientas. 
+
  
 ## 📌 Áreas de interés
 💻 Programación para el análisis de datos
@@ -38,14 +39,17 @@ Mis componentes académicos incluyen areas como:
 
 🔠Idiomas
 
+
 ## Actualmente estoy aprendiendo los lenguajes de:
 &nbsp; <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
 &nbsp; <img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png">
+
 
 ## Idiomás
 - Español — Nativo
 - Inglés — En desarrollo
 - Portugués — En desarrollo
+
 
 ## ⛳Objetivos profesionales
 -Seguir fortaleciendo mis habilidades en análisis de datos, 
@@ -56,6 +60,7 @@ Mis componentes académicos incluyen areas como:
 
 -Hacer mi primer proyecto colaborativo importante e inclinarme más formativamente hacía el área
 financiera que es en la que me quiero desempeñar laboralmente.
+
 
 # 📊 Estadísticas de GitHub
 
